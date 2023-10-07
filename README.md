@@ -7,7 +7,7 @@
 
 - 📫 Send a message to **catherinesimiloluwa@gmail.com**
 
-- ⚡ Fun fact **I like sunflowers, sunsets and the ocean**
+- ⚡ Fun fact: **I like sunflowers, sunsets and the ocean**
 
 
 <h3 align="left">Let's connect:</h3>
