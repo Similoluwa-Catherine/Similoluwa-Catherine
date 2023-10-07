@@ -7,8 +7,6 @@
 
 - 📫 Send a message to **catherinesimiloluwa@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/19D7O6YyCWWV3OzwGAoFZKsRCcxJzPOFL/view](https://drive.google.com/file/d/19D7O6YyCWWV3OzwGAoFZKsRCcxJzPOFL/view)
-
 - ⚡ Fun fact **I like sunflowers, sunsets and the ocean**
 
 
