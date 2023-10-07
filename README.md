@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Similoluwa</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="right" alt="coding" width="350" src="https://gifdb.com/gif/coding-girl-animation-fe7t4gejurmtof8v.html">
+<img align="right" alt="coding" width="400" src="https://assets.entrepreneur.com/content/3x2/2000/1649279368-Ent-2022Python.jpeg">
 
 - 👨‍💻 All of my projects are available at [https://simiilori.netlify.app/](https://simiilori.netlify.app/)
 
