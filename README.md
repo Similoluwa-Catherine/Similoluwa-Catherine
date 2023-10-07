@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Similoluwa</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<p align="center">I'm a frontend developer from Nigeria. Using JavaScript, TypeScript, HTML, CSS, React and a wide range of related tech stack to build user-friendly and accessible products, I have experience with writing scalable and efficient code. I am open to collaborations networking and job opportunities.</p>
 <img align="right" alt="coding" width="350" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 
 
